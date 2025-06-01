@@ -131,7 +131,8 @@ Project Structure
 
 
 
-my_project_etl.ipynb: The main Jupyter Notebook containing the ETL pipeline and visualization code.
+### my_project_etl.ipynb: 
+The main Jupyter Notebook containing the ETL pipeline and visualization code.
 
 
 
