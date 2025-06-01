@@ -125,14 +125,13 @@ The second dashboard (port 8051) shows a combined line plot of closing and openi
 
 Access the dashboards in your browser at http://127.0.0.1:8052 and http://127.0.0.1:8051.
 
-Project Structure
+### Project Structure
 
 
 
 
 
-### my_project_etl.ipynb: 
-The main Jupyter Notebook containing the ETL pipeline and visualization code.
+my_project_etl.ipynb: The main Jupyter Notebook containing the ETL pipeline and visualization code.
 
 
 
