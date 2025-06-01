@@ -12,6 +12,7 @@ Percentage Change: (Close - Open) / Open * 100
 Load: Stores processed data in a SQLite database (stocks_data.db).
 Visualization: Two stunning, interactive dashboards:
 📊 Line plot of opening prices over time.
+
 📈 Combined line plot of closing vs. opening prices for trend analysis.
 
 
@@ -41,6 +42,7 @@ Launch dazzling Dash dashboards!
 
 Dashboards  
 🌐 Opening Prices: A sleek line plot at http://127.0.0.1:8052.
+
 🌐 Open vs. Close: A vibrant combined plot at http://127.0.0.1:8051.
 Interact with the charts in your browser for real-time insights!
 
