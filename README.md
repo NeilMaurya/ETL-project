@@ -80,4 +80,5 @@ Submit a pull request with a clear rundown of your changes.
 ### 📬 Contact
 Got questions? Open an issue on GitHub or ping the project maintainer. Let’s make this project shine! 🌟
 
-# Built with 💻 and a passion for data!
+#
+Built with 💻 and a passion for data!
