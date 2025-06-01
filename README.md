@@ -23,13 +23,13 @@ pip install requests pandas openpyxl sqlalchemy dash plotly
 
 ### 🚀 Usage
 
-API Key
+API Key:
 Grab your free Alpha Vantage API key from Alpha Vantage. Replace the apikey value (XO6PY6AABZ9SDAXI) in my_project_etl.ipynb with yours.
 
 
 
 
-Run the Notebook  
+Run the Notebook:  
 Open my_project_etl.ipynb in Jupyter Notebook or a similar environment.
 Run cells in order to:
 Fetch raw data from the API.
@@ -40,7 +40,7 @@ Launch dazzling Dash dashboards!
 
 
 
-Dashboards  
+Dashboards:  
 🌐 Opening Prices: A sleek line plot at http://127.0.0.1:8052.
 
 🌐 Open vs. Close: A vibrant combined plot at http://127.0.0.1:8051.
