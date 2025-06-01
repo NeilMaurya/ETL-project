@@ -22,7 +22,9 @@ pip install requests pandas openpyxl sqlalchemy dash plotly
 
 ### 🚀 Usage
 
-API KeyGrab your free Alpha Vantage API key from Alpha Vantage. Replace the apikey value (XO6PY6AABZ9SDAXI) in my_project_etl.ipynb with yours.
+API Key
+Grab your free Alpha Vantage API key from Alpha Vantage. Replace the apikey value (XO6PY6AABZ9SDAXI) in my_project_etl.ipynb with yours.
+
 Run the Notebook  
 Open my_project_etl.ipynb in Jupyter Notebook or a similar environment.
 Run cells in order to:
