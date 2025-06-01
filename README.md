@@ -44,8 +44,6 @@ Dashboards
 🌐 Opening Prices: A sleek line plot at http://127.0.0.1:8052.
 
 
-
-
 🌐 Open vs. Close: A vibrant combined plot at http://127.0.0.1:8051.
 Interact with the charts in your browser for real-time insights!
 
