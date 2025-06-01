@@ -1,5 +1,5 @@
 # ETL-project
-Overview
+#Overview
 
 This project implements an ETL (Extract, Transform, Load) pipeline to fetch, process, and visualize intraday stock price data for IBM using the Alpha Vantage API. The data is extracted in 5-minute intervals, transformed into a structured format, and loaded into a SQLite database. Dashboards are created using Dash and Plotly for real-time stock price visualization.
 
